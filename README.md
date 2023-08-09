@@ -92,9 +92,11 @@ applicant’s profile. Two types of risks are associated with the bank’s decis
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 1.5.3
+- numpy - version 1.23.5
+- matplotlib - version 3.7.0
+- matplotlib-inline - version 0.1.6
+- seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
